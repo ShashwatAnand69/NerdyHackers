@@ -1,0 +1,12 @@
+body{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvYp9LzqD2KEgqX52CPVD2rO3hOUY9oJlnAWxcI3G5ThbdxYMPaYc3GwaJyUtYOE8LpzY&usqp=CAU') no-repeat center center fixed; 
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+}
+.my-1{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 60px;
+    margin: auto;
+}
